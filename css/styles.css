@@ -36,3 +36,13 @@ body{
 .navbar-dark{
     background-color: #512da8;
 }
+
+.btn-div{
+    margin-left: 1rem;
+}
+
+.flexmamalon{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
