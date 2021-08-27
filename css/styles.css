@@ -41,8 +41,10 @@ body{
     margin-left: 1rem;
 }
 
-.flexmamalon{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
+
